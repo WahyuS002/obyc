@@ -8,6 +8,9 @@ export default function Navbar() {
                 <h3 className="ml-3 text-xl font-bold">OBYC</h3>
             </div>
             <div className="flex items-center space-x-3 text-sm">
+                <button className="border border-gray-600 px-4 py-2 rounded-md uppercase hover:bg-primary hover:border-primary hover:text-white transition-all duration-300 ease-in-out font-semibold">
+                    Roadmap
+                </button>
                 <a
                     href="https://twitter.com/okaybearsyc?s=21&t=vthrrcys4zdrX6TvTV6zMg"
                     target={'_blank'}

@@ -7,7 +7,7 @@ function App() {
             <div className="px-12 py-9">
                 <Navbar />
             </div>
-            <div className="px-12 py-9">
+            <div className="px-12 pb-9">
                 <Main />
             </div>
         </div>
