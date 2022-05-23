@@ -9,6 +9,9 @@ module.exports = {
             fontFamily: {
                 rubik: 'Rubik',
             },
+            cursor: {
+                soon: 'url(./assets/svg/soon-cursor.svg), pointer',
+            },
         },
     },
     plugins: [],

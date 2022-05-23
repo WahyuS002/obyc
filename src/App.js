@@ -12,7 +12,7 @@ function App() {
         <AnimatePresence>
             <Routes location={location} key={location.pathname}>
                 <Route path="/" element={<Default />} />
-                <Route path="/home" element={<Home />} />
+                {/* <Route path="/home" element={<Home />} /> */}
             </Routes>
         </AnimatePresence>
     )
