@@ -5,12 +5,10 @@ module.exports = {
             colors: {
                 primary: '#FFB900',
                 dark: '#1D1D1D',
+                'semi-dark': '#282833',
             },
             fontFamily: {
                 rubik: 'Rubik',
-            },
-            cursor: {
-                soon: 'url(./assets/svg/soon-cursor.svg), pointer',
             },
         },
     },
